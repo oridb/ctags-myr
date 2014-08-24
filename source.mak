@@ -33,6 +33,7 @@ SOURCES = \
 	main.c \
 	make.c \
 	matlab.c \
+	myrddin.c \
 	objc.c \
 	ocaml.c \
 	options.c \
@@ -96,6 +97,7 @@ OBJECTS = \
 	main.$(OBJEXT) \
 	make.$(OBJEXT) \
 	matlab.$(OBJEXT) \
+	myrddin.$(OBJEXT) \
 	objc.$(OBJEXT) \
 	ocaml.$(OBJEXT) \
 	options.$(OBJEXT) \
